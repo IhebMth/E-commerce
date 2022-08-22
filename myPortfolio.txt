@@ -1,0 +1,11 @@
+ATABASE
+
+dataBase name : myWebsite
+dataBase username : iheb 
+dataBase password : 1A/kDT3dfT)!zgVw
+Table prefix : abc_
+
+
+WORDPRESS
+dataBase username : iheb 
+dataBase password : 12345678
